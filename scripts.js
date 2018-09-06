@@ -16,5 +16,6 @@ function getMaxSubSum(arr) {
 	return maxSum;
 }
 
+
 var maxResult = getMaxSubSum(arr);
 console.log(maxResult);
